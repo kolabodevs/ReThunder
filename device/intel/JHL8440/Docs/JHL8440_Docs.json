@@ -1,0 +1,46 @@
+{
+  "details": [
+    {
+      "url": "http://static.kolabo.dev/pub/docs/Intel/Thunderbolt/GoshenRidge/GorillaCreek_Reference_Schematic_R1_1.pdf",
+      "BucketPath": "docs/Intel/Thunderbolt/GoshenRidge/GorillaCreek_Reference_Schematic_R1_1.pdf",
+      "Size": 1366071,
+      "FSize": "1.30 MB",
+      "Description": "Gorilla Creek Reference Schematic Rev. 1.1"
+    },
+    {
+      "url": "http://static.kolabo.dev/pub/docs/Intel/Thunderbolt/GoshenRidge/GodzillaCreek_Reference_Schematic_R1_2.pdf",
+      "BucketPath": "docs/Intel/Thunderbolt/GoshenRidge/GodzillaCreek_Reference_Schematic_R1_2.pdf",
+      "Size": 1070814,
+      "FSize": "1.02 MB",
+      "Description": "Godzilla Creek Reference Schematic Rev. 1.2"
+    },
+    {
+      "url": "http://static.kolabo.dev/pub/docs/Intel/Thunderbolt/GoshenRidge/GodzillaCreek_Reference_Schematic_R2_1.pdf",
+      "BucketPath": "docs/Intel/Thunderbolt/GoshenRidge/GodzillaCreek_Reference_Schematic_R2_1.pdf",
+      "Size": 1253763,
+      "FSize": "1.20 MB",
+      "Description": "Godzilla Creek Reference Schematic Rev. 2.1"
+    },
+    {
+      "url": "http://static.kolabo.dev/pub/docs/Intel/Thunderbolt/GoshenRidge/GiantCreek_Reference_Schematic_R1_1.pdf",
+      "BucketPath": "docs/Intel/Thunderbolt/GoshenRidge/GiantCreek_Reference_Schematic_R1_1.pdf",
+      "Size": 2310103,
+      "FSize": "2.20 MB",
+      "Description": "Giant Creek Reference Schematic Rev. 1.1"
+    },
+    {
+      "url": "http://static.kolabo.dev/pub/docs/Intel/Thunderbolt/GoshenRidge/GatkexCreek_Reference_Schematic_R4_45.pdf",
+      "BucketPath": "docs/Intel/Thunderbolt/GoshenRidge/GatkexCreek_Reference_Schematic_R4_45.pdf",
+      "Size": 1244620,
+      "FSize": "1.19 MB",
+      "Description": "Gatkex Creek Reference Schematic Rev. 4.45"
+    },
+    {
+      "url": "http://static.kolabo.dev/pub/docs/Intel/Thunderbolt/GoshenRidge/Galactico_Reference_Schematic_R1_1.pdf",
+      "BucketPath": "docs/Intel/Thunderbolt/GoshenRidge/Galactico_Reference_Schematic_R1_1.pdf",
+      "Size": 1369958,
+      "FSize": "1.31 MB",
+      "Description": "Galactico Reference Schematic Rev. 1.1"
+    }
+  ]
+}
