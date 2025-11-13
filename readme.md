@@ -35,7 +35,7 @@ Unofficial / community-created documents will be committed to the repository whe
 | USB4 | Realtek | RTS5490 | - | – | – | – | USB, DP Hub - No PCIe PHY |
 | USB4 | VIA Labs | VL830 | Available | – | – | – | USB, DP Hub - No PCIe PHY |
 | TBT4 / USB4 | Intel | JHL8440 | – | – | – | – | PCIe 3.0 x1 only |
-| TBT3 | Intel | JHL7440 | Available | – | – | – | - |
+| TBT3 | Intel | JHL7440 | Available | Completed | Completed | – | - |
 
 ---
 
